@@ -93,6 +93,6 @@
     "vue-template-compiler": "^2.x"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.5"
   }
 }
